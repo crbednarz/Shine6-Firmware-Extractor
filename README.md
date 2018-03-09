@@ -1,5 +1,5 @@
 # Ducky Shine 6 Firmware Extractor
-Tool & Documentation for the extraction of Duck Shine 6's firmware from its firmware updater.
+Tool & Documentation for the extraction of Ducky Shine 6's firmware from its firmware updater.
 
 
 ## Usage
