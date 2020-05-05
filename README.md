@@ -12,10 +12,5 @@ Example Usage: Shine6FWExtractor.exe FWUpdate.exe firmware.bin
 However, the intention of the tool is more to cover how one might approach extracting future firmware updates from Ducky devices.
 Comments in UpdaterConstants.cs may offer some insight on approaching other versions of the updater.
 
-
-## Special Thanks
-A huge thanks to all the work done on [pok3r_re_firmware](https://github.com/pok3r-custom/pok3r_re_firmware). It was often enough to get me going in the right direction.
-
-
 ## License
 License information can be found in the LICENSE file in the root directory.
