@@ -1,6 +1,7 @@
 # Ducky Shine 6 Firmware Extractor
 Tool & Documentation for the extraction of Ducky Shine 6's firmware from its firmware updater.
 
+**Note: This repo is deprecated in favor of https://github.com/crbednarz/shine6-tool**
 
 ## Usage
 After compiling the tool, you can use the first argument to specify the path, and the second to specify the output.
